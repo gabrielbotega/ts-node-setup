@@ -1,1 +1,3 @@
-const goiaba = "goiaba";
+const teste = "teste";
+
+console.log(teste);
