@@ -1,3 +1,7 @@
-const teste = "teste";
+class Person {
+  sayMyName() {
+    return "Gabriel";
+  }
+}
 
-console.log(teste);
+export default Person;
