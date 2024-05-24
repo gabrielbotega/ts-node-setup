@@ -1,1 +1,1 @@
-console.log("Hello");
+const goiaba = "goiaba";
